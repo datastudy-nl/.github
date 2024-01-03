@@ -1,8 +1,10 @@
 # DataStudy.nl
 
+
 <p align="center">
-    <img src="./assets/datastudy-gh.png" alt="DataStudy Logo">
+    <img src="https://raw.githubusercontent.com/datastudy-nl/.github/main/assets/datastudy-gh.png" alt="DataStudy Logo">
 </p>
+
 
 ## 👋 Over ons
 
